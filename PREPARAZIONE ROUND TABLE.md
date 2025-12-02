@@ -54,7 +54,7 @@
     - In che modo l' azienda percepisce l' innovazione e alla sicurezza
 
     #### In che modo analizziamo i dati?
-    b-app?
+    
 
 
 
